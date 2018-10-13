@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Test Repo Config",
+    "pivotalId": "1234567",
+    "pivotalLabel": "test-repo-config",
+    "repositoryName": "Test-Repo-Config",
+    "flowName": "Test Repo Config",
+    "changeManagement": {
+      "team": "Services",
+      "email": "rb@yopmail.com",
+      "sponsor": "Ryan Boone",
+      "risk": "Medium"
+    }
+  },
+  {
+    "name": "Test Repo Config No Goo",
+    "pivotalId": "1234567",
+    "pivotalLabel": "test-repo-config-no-goo",
+    "repositoryName": "Test-Repo-Config-No-Goo",
+    "flowName": "Test Repo Config No Goo",
+    "changeManagement": {
+      "team": "Services",
+      "email": "rb@yopmail.com",
+      "sponsor": "Ryan Boone",
+      "risk": "Medium"
+    }
+  },
+  {
+    "name": "Test Repo No Config",
+    "pivotalId": "1234567",
+    "pivotalLabel": "test-repo-no-config",
+    "repositoryName": "Test-Repo-No-Config",
+    "flowName": "Test Repo No Config",
+    "changeManagement": {
+      "team": "Services",
+      "email": "rb@yopmail.com",
+      "sponsor": "Ryan Boone",
+      "risk": "Medium"
+    }
+  }
+]
